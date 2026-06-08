@@ -1,5 +1,5 @@
 # Produced by Dr. Junwei Cao, 2026
-
+> ⚠️ **Citation Format:** Cao, JW. [DrHarryCao]. (2023). PlsAnnConjointAnalysis [Computer software]. GitHub. https://github.com/DrHarryCao/PlsAnnConjointAnalysis
 # PLS-ANN Analytical Tool V1.8 **JW❤QX @Xiaohongshu drharry**
 
 ## Introduction
